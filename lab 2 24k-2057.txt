@@ -1,0 +1,211 @@
+LAB 2 HOME SUBMISSION   
+
+ 
+
+OBJECTIVE 2: Pseudocode   
+
+Task 2: Take three variables as input and add them without using the + operator.  
+
+ 
+
+Start   
+
+  
+
+//input/output   
+
+ 
+
+Input number 1 = 4   
+
+Input number 2 = 6   
+
+Input number 3 = 8  
+
+  
+
+//variables and initialization   
+
+  
+
+Set subtraction to 0   
+
+ 
+
+//Process steps   
+
+  
+
+Set subtraction to 4- (-6) -(-8)   
+
+ 
+
+Print “18”  
+
+ 
+
+End   
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ TASK 3: Create a small calculator which only does ‘+’ or ‘- ‘Operations. (Hint: Take three variable inputs with one being used for the operator) 
+
+ 
+
+Start  
+
+  
+
+//input/output    
+
+Input number one = 8  
+
+Input operation = + or -   
+
+Input number two = 9  
+
+ 
+
+//variables and initialization   
+
+Set sum or subtraction to 0   
+
+  
+
+//Conditional statement  
+
+  
+
+If    
+
+Operation = `+`  
+
+Then process   
+
+Set sum to 8 + 9   
+
+Print `sum = 17`  
+
+ 
+
+If else    
+
+Operation = `-`  
+
+Then process   
+
+Set sum to 8 - 9   
+
+Print `Subtraction = -1` 
+
+End   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OBJECTIVE 3: Algorithm 
+
+ 
+
+Task Three: Implement an algorithm for making a simple calculator with all the operators (+, -, *, /, %)  
+
+ 
+
+SOLUTION:  
+
+  
+
+Ask the user to enter First number.   
+
+Ask the user to enter the operation (+, -, *, /, %)  
+
+Ask the user to enter the second number.  
+
+If the user has entered the operation ` + `   
+
+Process: First number + second number   
+
+If else the user has entered the operation ` - `   
+
+Process: First number - second number   
+
+If else the user has entered the operation ` * `   
+
+Process: First number * second number  
+
+If else the user has entered the operation ` / `   
+
+Process: First number / second number  
+
+If else the user has entered the operation ` % `   
+
+Process:( First number / second number) * 100  
+
+Print the result. 
+
+ 
+
+Task one: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well. 
+
+ 
+
+Solution: 
+
+ 
+
+Start  
+
+Ask the user to input the dividend = 6  
+
+Ask the user to enter the divisor = 2  
+
+Process = dividend / divisor = 6/2 = 3  
+
+If the process does not get a whole number. 
+
+ So, the dividend is not divisible by divisor. 
+
+If else, the process gets a whole number = 3  
+
+So, the dividend is divisible by divisor. 
+
+Process = 3/2 = 1.5  
+
+If the process does not get a whole number. 
+
+ So, the result is odd number. 
+
+If else, the process gets a whole number  
+
+So, the result is the even number. 
+
+Print the results = ``2 is divisor of 6, result is (3) odd number``
